@@ -1,0 +1,261 @@
+Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2071 [Info]:<3>[  vdec] Stream error rate 75 larger than set 30 at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2134 [Info]:<3>[  vdec] chn 0 VPS num 2 is not enough, some sequences will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2134 [Info]:<3>[  vdec] chn 0 VPS num 2 is not enough, some sequences will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2199 [Info]:<3>[  vdec] chn 0 stream error !! long time not release!!
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2134 [Info]:<3>[  vdec] chn 0 VPS num 2 is not enough, some sequences will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2134 [Info]:<3>[  vdec] chn 0 VPS num 2 is not enough, some sequences will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2125 [Info]:<3>[  vdec] chn 0 PPS num 2 is not enough, some images will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2125 [Info]:<3>[  vdec] chn 0 PPS num 2 is not enough, some images will be discarded
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2085 [Info]:<3>[  vdec] Stream error ,can't decorder at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0
+<3>[  vdec] [Func]:VDEC_EventProcess [Line]:2056 [Info]:<3>[  vdec] Video format unsuport at Event chn 0

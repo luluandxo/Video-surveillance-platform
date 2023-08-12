@@ -1,0 +1,1889 @@
+------------  info from master arm -------------
+
+[ACODEC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:43]
+
+-----ACODEC PARAM--------------------------------------------------------------
+   LGain(dB)   RGain(dB) DacLVol(dB) DacRVol(dB) AdcLVol(dB) AdcRVol(dB) MicLMut MicRMut DacLMut DacRMut  BoostL  BoostR
+       0.0       0.0       -21         -21           0           0           0       0       1       1       0       0
+
+------------  info from master arm -------------
+
+[ADEC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:45]
+
+-----ADEC CHN ATTR--------------------------------------------------------------
+ChnId  PlType   ADPCMType BufSize        G726Rate      Mode  OriSendCnt     SendCnt      GetCnt      PutCnt
+
+------------  info from master arm -------------
+
+[AENC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:45]
+
+-----AENC CHN ATTR--------------------------------------------------------------
+ChnId  PlType   ADPCMType  PoiNum BufSize        G726Rate
+
+-----AENC CHN STATUS------------------------------------------------------------
+ChnId      RcvFrm   AiQueLost       EncOk      FrmErr     BufFull     GetStrm     RlsStrm      WtFile
+
+------------  info from master arm -------------
+
+[AI] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time: [Aug 11 2017, 12:07:45]
+
+-----AI DEV ATTR---------------------------------------------------------------------------------------------------------
+AiDev WorkMod   SampR  BitWid  ChnCnt  ClkCnt  ClkSel SoundMod  PoiNum  ExFlag  FrmNum
+
+-----AI DEV STATUS-------------------------------------------------------------------------------------------------------
+AiDev TranLen     CBPhy  CBSize   ROffSet   WOffSet
+
+-----AI DEV EXTEND STATUS------------------------------------------------------------------------------------------------
+AiDev enTrack   bMute  Volume
+
+-----AI CHN STATUS----------------------------------------------------------------------------------------------------------------
+AiDev   AiChn   State    Read   Write      BufFul  UsrQueLost UsrFrmDepth u32Data0 u32Data1    UserGet    UserRls
+
+-----AI CHN RESAMPLE STATUS-------------------------------------------------------------------------------------------------------
+AiDev AiChn   State  bResmp  PoiNum   InSampR  OutSampR
+
+-----AI CHN VQE STATUS0------------------------------------------------------------------------------------------------------------
+AiDev AiChn   State    bVqe workmod    RATE  PoiNum GainVol    bAnr    bAgc     bEq    bHpf    bAec    bRnr    bHdr    bDrc    bPeq  WrFile
+
+------------  info from master arm -------------
+
+[AO] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time: [Aug 11 2017, 12:07:45]
+
+-----AO DEV ATTR---------------------------------------------------------------------------------------------------------
+AoDev WorkMod   SampR  BitWid  ChnCnt  ClkCnt  ClkSel SoundMod  PoiNum  ExFlag  FrmNum
+
+-----AO DEV STATUS-------------------------------------------------------------------------------------------------------
+AoDev TranLen     CBPhy  CBSize   ROffSet   WOffSet
+
+-----AO DEV EXTEND STATUS------------------------------------------------------------------------------------------------
+AoDev enTrack   bMute  Volume
+
+-----AO CHN STATUS-------------------------------------------------------------------------------------------------------
+AoDev   AoChn   State    Read   Write      BufEmp  u32Data0  u32Data1  bResmp  PoiNum InSampR  OutSampR
+
+-----AO CHN VQE STATUS0---------------------------------------------------------------------------------------------------
+AoDev AoChn   State    bVqe workmod    RATE  PoiNum    bAnr    bAgc     bEq    bHpf  WrFile
+
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+
+[CHNL] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:56]
+
+Total Chnl Scheduler Count: 3 
+
+-----SCHEDULER 0 INFO----------------------------------------------------------
+   SchdlId    VpuNum
+         0         1
+
+-----VPU INFO------------------------------------------------------------------
+   VpuId    Name   State      IntCnt     TimeCnt      VpuCnt  ErrCnt      InqCnt     StartOk     StartNo      Config   Reset
+       0  VEDU_0   PAUSE      273922      273922           0       0           0           0           0           0       0
+
+-----CHNL STATE----------------------------------------------------------------
+  ChnlId    Prio    Type  TskNum   State      InqCnt     StartOk     StartNo      IntPro
+
+-----CHNL PERF-----------------------------------------------------------------
+  ChnlId        Type   StartCost     IntCost    IntCostL      HWCost     HWCycle     HWCostL   HWCostAcc
+
+-----CHNL CURRENT RUN STATE----------------------------------------------------
+   VpuId     VpuName      ChnlId        Type
+  No running channel here
+
+-----SCHEDULER 1 INFO----------------------------------------------------------
+   SchdlId    VpuNum
+         1         1
+
+-----VPU INFO------------------------------------------------------------------
+   VpuId    Name   State      IntCnt     TimeCnt      VpuCnt  ErrCnt      InqCnt     StartOk     StartNo      Config   Reset
+       0 JPEGU_0   PAUSE      273922      273922           0       0           0           0           0           0       0
+
+-----CHNL STATE----------------------------------------------------------------
+  ChnlId    Prio    Type  TskNum   State      InqCnt     StartOk     StartNo      IntPro
+
+-----CHNL PERF-----------------------------------------------------------------
+  ChnlId        Type   StartCost     IntCost    IntCostL      HWCost     HWCycle     HWCostL   HWCostAcc
+
+-----CHNL CURRENT RUN STATE----------------------------------------------------
+   VpuId     VpuName      ChnlId        Type
+  No running channel here
+
+-----SCHEDULER 2 INFO----------------------------------------------------------
+   SchdlId    VpuNum
+         2         1
+
+-----VPU INFO------------------------------------------------------------------
+   VpuId    Name   State      IntCnt     TimeCnt      VpuCnt  ErrCnt      InqCnt     StartOk     StartNo      Config   Reset
+       0     VDA   PAUSE      273922      273922           0       0           0           0           0           0       0
+
+-----CHNL STATE----------------------------------------------------------------
+  ChnlId    Prio    Type  TskNum   State      InqCnt     StartOk     StartNo      IntPro
+
+-----CHNL PERF-----------------------------------------------------------------
+  ChnlId        Type   StartCost     IntCost    IntCostL      HWCost     HWCycle     HWCostL   HWCostAcc
+
+-----CHNL CURRENT RUN STATE----------------------------------------------------
+   VpuId     VpuName      ChnlId        Type
+  No running channel here
+
+------------  info from master arm -------------
+
+[DCCM] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+Total Comm Thread Cnt:          65
+
+Message handle NotEnough :           0
+
+-----THREAD INFO---------------------------------------------------------------
+Index  	Cmd       Module  CmdOrder  MsgType State   bLive   MsgBuff   PhyBuff
+0  	5400      33      0         129     IDLE    0       c9200000  48000000
+1  	c0085109  40      9         129     EXP     0       c9202000  48002000
+2  	4429      5       41        129     IDLE    0       c9204000  48004000
+3  	4429      5       41        129     IDLE    0       c9206000  48006000
+4  	4429      5       41        129     IDLE    0       c9208000  48008000
+5  	4429      5       41        129     IDLE    0       c920a000  4800a000
+6  	4429      5       41        129     IDLE    0       c920c000  4800c000
+7  	4429      5       41        129     IDLE    0       c920e000  4800e000
+8  	4429      5       41        129     IDLE    0       c9210000  48010000
+9  	4429      5       41        129     IDLE    0       c9212000  48012000
+10  	4429      5       41        129     IDLE    0       c9214000  48014000
+11  	4429      5       41        129     IDLE    0       c9216000  48016000
+12  	4429      5       41        129     IDLE    0       c9218000  48018000
+13  	4429      5       41        129     IDLE    0       c921a000  4801a000
+14  	4429      5       41        129     IDLE    0       c921c000  4801c000
+15  	4429      5       41        129     IDLE    0       c921e000  4801e000
+16  	4429      5       41        129     IDLE    0       c9220000  48020000
+17  	0         -1      0         0       INIT    0       c9222000  48022000
+18  	0         -1      0         0       INIT    0       c9224000  48024000
+19  	0         -1      0         0       INIT    0       c9226000  48026000
+20  	0         -1      0         0       INIT    0       c9228000  48028000
+21  	0         -1      0         0       INIT    0       c922a000  4802a000
+22  	0         -1      0         0       INIT    0       c922c000  4802c000
+23  	0         -1      0         0       INIT    0       c922e000  4802e000
+24  	0         -1      0         0       INIT    0       c9230000  48030000
+25  	0         -1      0         0       INIT    0       c9232000  48032000
+26  	0         -1      0         0       INIT    0       c9234000  48034000
+27  	0         -1      0         0       INIT    0       c9236000  48036000
+28  	0         -1      0         0       INIT    0       c9238000  48038000
+29  	0         -1      0         0       INIT    0       c923a000  4803a000
+30  	0         -1      0         0       INIT    0       c923c000  4803c000
+31  	0         -1      0         0       INIT    0       c923e000  4803e000
+32  	0         -1      0         0       INIT    0       c9240000  48040000
+33  	0         -1      0         0       INIT    0       c9242000  48042000
+34  	0         -1      0         0       INIT    0       c9244000  48044000
+35  	0         -1      0         0       INIT    0       c9246000  48046000
+36  	0         -1      0         0       INIT    0       c9248000  48048000
+37  	0         -1      0         0       INIT    0       c924a000  4804a000
+38  	0         -1      0         0       INIT    0       c924c000  4804c000
+39  	0         -1      0         0       INIT    0       c924e000  4804e000
+40  	0         -1      0         0       INIT    0       c9250000  48050000
+41  	0         -1      0         0       INIT    0       c9252000  48052000
+42  	0         -1      0         0       INIT    0       c9254000  48054000
+43  	0         -1      0         0       INIT    0       c9256000  48056000
+44  	0         -1      0         0       INIT    0       c9258000  48058000
+45  	0         -1      0         0       INIT    0       c925a000  4805a000
+46  	0         -1      0         0       INIT    0       c925c000  4805c000
+47  	0         -1      0         0       INIT    0       c925e000  4805e000
+48  	0         -1      0         0       INIT    0       c9260000  48060000
+49  	0         -1      0         0       INIT    0       c9262000  48062000
+50  	0         -1      0         0       INIT    0       c9264000  48064000
+51  	0         -1      0         0       INIT    0       c9266000  48066000
+52  	0         -1      0         0       INIT    0       c9268000  48068000
+53  	0         -1      0         0       INIT    0       c926a000  4806a000
+54  	0         -1      0         0       INIT    0       c926c000  4806c000
+55  	0         -1      0         0       INIT    0       c926e000  4806e000
+56  	0         -1      0         0       INIT    0       c9270000  48070000
+57  	0         -1      0         0       INIT    0       c9272000  48072000
+58  	0         -1      0         0       INIT    0       c9274000  48074000
+59  	0         -1      0         0       INIT    0       c9276000  48076000
+60  	0         -1      0         0       INIT    0       c9278000  48078000
+61  	0         -1      0         0       INIT    0       c927a000  4807a000
+62  	0         -1      0         0       INIT    0       c927c000  4807c000
+63  	0         -1      0         0       INIT    0       c927e000  4807e000
+64  	0         -1      0         0       INIT    0       c9280000  48080000
+
+-----THREAD STATE--------------------------------------------------------------
+Index  	SndCnt	AckCnt
+0	8553	8553
+1	6952	6951
+2	2283	2283
+3	1814	1814
+4	1308	1308
+5	1059	1059
+6	846	846
+7	484	484
+8	195	195
+9	71	71
+10	29	29
+11	12	12
+12	6	6
+13	5	5
+14	5	5
+15	4	4
+16	3	3
+17	0	0
+18	0	0
+19	0	0
+20	0	0
+21	0	0
+22	0	0
+23	0	0
+24	0	0
+25	0	0
+26	0	0
+27	0	0
+28	0	0
+29	0	0
+30	0	0
+31	0	0
+32	0	0
+33	0	0
+34	0	0
+35	0	0
+36	0	0
+37	0	0
+38	0	0
+39	0	0
+40	0	0
+41	0	0
+42	0	0
+43	0	0
+44	0	0
+45	0	0
+46	0	0
+47	0	0
+48	0	0
+49	0	0
+50	0	0
+51	0	0
+52	0	0
+53	0	0
+54	0	0
+55	0	0
+56	0	0
+57	0	0
+58	0	0
+59	0	0
+60	0	0
+61	0	0
+62	0	0
+63	0	0
+64	0	0
+
+-----USER NOTIFY STATE--------------------------------------------------------------
+RecCnt          DataLen         
+104115145       6663369280      
+
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+
+[DCCS] Version: [Hi3536_MPP_V1.0.0.0 B00 Release], Build Time[Aug 11 2017, 12:09:05]
+
+  ID       Cmd       mod    St   Com   Run  Live   Chn       Ret
+-----COMMUNICATE STATE-------------------------------------------------------
+   0      5400        33   RUN  RECV   YES   YES    32         0
+   1  c0085109        40   RUN  RECV   YES   YES     0  ffffffff
+   2      4429         5   RUN  SEND   YES    NO     3         0
+   3      4429         5   RUN  SEND   YES    NO     1         0
+   4      4429         5   RUN  SEND   YES    NO     0         0
+   5      4429         5   RUN  SEND   YES    NO     6         0
+   6      4429         5   RUN  SEND   YES    NO    13         0
+   7      4429         5   RUN  SEND   YES    NO     9         0
+   8      4429         5   RUN  SEND   YES    NO    11         0
+   9      4429         5   RUN  SEND   YES    NO    14         0
+  10      4429         5   RUN  SEND   YES    NO     0         0
+  11      4429         5   RUN  SEND   YES    NO     5         0
+  12      4429         5   RUN  SEND   YES    NO     4         0
+  13      4429         5   RUN  SEND   YES    NO     5         0
+  14      4429         5   RUN  SEND   YES    NO     8         0
+  15      4429         5   RUN  SEND   YES    NO     9         0
+  16      4429         5   RUN  SEND   YES    NO     1         0
+  17         0         0   RUN  INIT   YES    NO     0         0
+  18         0         0   RUN  INIT   YES    NO     0         0
+  19         0         0   RUN  INIT   YES    NO     0         0
+  20         0         0   RUN  INIT   YES    NO     0         0
+  21         0         0   RUN  INIT   YES    NO     0         0
+  22         0         0   RUN  INIT   YES    NO     0         0
+  23         0         0   RUN  INIT   YES    NO     0         0
+  24         0         0   RUN  INIT   YES    NO     0         0
+  25         0         0   RUN  INIT   YES    NO     0         0
+  26         0         0   RUN  INIT   YES    NO     0         0
+  27         0         0   RUN  INIT   YES    NO     0         0
+  28         0         0   RUN  INIT   YES    NO     0         0
+  29         0         0   RUN  INIT   YES    NO     0         0
+  30         0         0   RUN  INIT   YES    NO     0         0
+  31         0         0   RUN  INIT   YES    NO     0         0
+  32         0         0   RUN  INIT   YES    NO     0         0
+  33         0         0   RUN  INIT   YES    NO     0         0
+  34         0         0   RUN  INIT   YES    NO     0         0
+  35         0         0   RUN  INIT   YES    NO     0         0
+  36         0         0   RUN  INIT   YES    NO     0         0
+  37         0         0   RUN  INIT   YES    NO     0         0
+  38         0         0   RUN  INIT   YES    NO     0         0
+  39         0         0   RUN  INIT   YES    NO     0         0
+  40         0         0   RUN  INIT   YES    NO     0         0
+  41         0         0   RUN  INIT   YES    NO     0         0
+  42         0         0   RUN  INIT   YES    NO     0         0
+  43         0         0   RUN  INIT   YES    NO     0         0
+  44         0         0   RUN  INIT   YES    NO     0         0
+  45         0         0   RUN  INIT   YES    NO     0         0
+  46         0         0   RUN  INIT   YES    NO     0         0
+  47         0         0   RUN  INIT   YES    NO     0         0
+  48         0         0   RUN  INIT   YES    NO     0         0
+  49         0         0   RUN  INIT   YES    NO     0         0
+  50         0         0   RUN  INIT   YES    NO     0         0
+  51         0         0   RUN  INIT   YES    NO     0         0
+  52         0         0   RUN  INIT   YES    NO     0         0
+  53         0         0   RUN  INIT   YES    NO     0         0
+  54         0         0   RUN  INIT   YES    NO     0         0
+  55         0         0   RUN  INIT   YES    NO     0         0
+  56         0         0   RUN  INIT   YES    NO     0         0
+  57         0         0   RUN  INIT   YES    NO     0         0
+  58         0         0   RUN  INIT   YES    NO     0         0
+  59         0         0   RUN  INIT   YES    NO     0         0
+  60         0         0   RUN  INIT   YES    NO     0         0
+  61         0         0   RUN  INIT   YES    NO     0         0
+  62         0         0   RUN  INIT   YES    NO     0         0
+  63         0         0   RUN  INIT   YES    NO     0         0
+  64         0         0   RUN  INIT   YES    NO     0         0
+
+-----COMMUNICATE PERF--------------------------------------------------------
+  ID       SdCnt       AkCnt      Wt(us)     Prc(us)
+   0        8557        8558          15         192
+   1        6951        6952          26      621094
+   2        2283        2283          21          55
+   3        1814        1814          80          18
+   4        1308        1308          44          18
+   5        1059        1059          75          13
+   6         846         846          57          17
+   7         484         484          88          14
+   8         195         195         101          14
+   9          71          71           8          15
+  10          29          29           8          13
+  11          12          12           8          15
+  12           6           6           8          18
+  13           5           5           9          15
+  14           5           5           8          15
+  15           4           4           9          16
+  16           3           3           7          16
+  17           0           0           0           0
+  18           0           0           0           0
+  19           0           0           0           0
+  20           0           0           0           0
+  21           0           0           0           0
+  22           0           0           0           0
+  23           0           0           0           0
+  24           0           0           0           0
+  25           0           0           0           0
+  26           0           0           0           0
+  27           0           0           0           0
+  28           0           0           0           0
+  29           0           0           0           0
+  30           0           0           0           0
+  31           0           0           0           0
+  32           0           0           0           0
+  33           0           0           0           0
+  34           0           0           0           0
+  35           0           0           0           0
+  36           0           0           0           0
+  37           0           0           0           0
+  38           0           0           0           0
+  39           0           0           0           0
+  40           0           0           0           0
+  41           0           0           0           0
+  42           0           0           0           0
+  43           0           0           0           0
+  44           0           0           0           0
+  45           0           0           0           0
+  46           0           0           0           0
+  47           0           0           0           0
+  48           0           0           0           0
+  49           0           0           0           0
+  50           0           0           0           0
+  51           0           0           0           0
+  52           0           0           0           0
+  53           0           0           0           0
+  54           0           0           0           0
+  55           0           0           0           0
+  56           0           0           0           0
+  57           0           0           0           0
+  58           0           0           0           0
+  59           0           0           0           0
+  60           0           0           0           0
+  61           0           0           0           0
+  62           0           0           0           0
+  63           0           0           0           0
+  64           0           0           0           0
+
+[DCCS] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:09:07]
+
+RecCnt          SendData        LenErr    HandleErr InitErr   NoBuf     TotalLen  MinFree   
+104115145       6663369280      0         0         0         0         32512     32320     
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+
+[H264E] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:09:09]
+
+-----MODULE PARAM--------------------------------------------------------------
+      OnePack  H264eVBSource    H264eRcnEqualRef    H264eMiniBufMode
+            0              1                   0                   0
+-----CHN ATTR------------------------------------------------------------------
+     ID    MaxWidth   MaxHeight   Width    Height   profile   C2GEn   BufSize   ByFrame   MaxStrCnt
+
+-----PICTURE INFO--------------------------------------------------------------
+     ID     EncdStart   EncdSucceed        Lost        Disc        Skip       Pskip      Recode      RlsStr     UnrdStr
+
+-----STREAM BUFFER-------------------------------------------------------------
+     ID     Base        RdTail      RdHead      WrTail      WrHead      DataLen     BufFree     
+
+-----RefParam INFO--------------------------------------------------------------
+     ID    EnPred        Base     Enhance bVirtualIEnable  VirtualIInterval VirtualIQpDelta GetVbFail
+
+-----ROI INFO------------------------------------------------------------------
+     ID     Index    bAbsQp    Qp     Width    Height    StartX    StartY   BgSrcFr   BgTarFr
+
+-----Syntax INFO1---------------------------------------------------------------
+     ID SlcspltEn   Slcmode   Slcsize   IntraRefresh  enIslice    RefreshLine   QpOfIDR
+
+-----Inter & Intra prediction INFO---------------------------------------------
+     ID   profile  HWsize  VWsize  P16x16   P16x8   P8x16    P8x8   MvExt  I16x16    Inxn    Ipcm
+
+-----Syntax INFO2--------------------------------------------------------------
+     ID   Profile   EntrpyI   EntrpyP  Itrans  Ptrans QMatrix   POC   DblkIdc   Alpha    Beta
+
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[HDMI] Version:[Hi3536_MPP_V1.0.7.0 B010 Release] Build Time:[Aug 11 2017, 12:08:49]
+
+HDMI Version:   2.0.0.20170227.0
+-------------------------- APPAttr -----------------------------
+HDMIEnable     : YES                   DefaultAction  : HDMI                 
+VideoEnable    : YES                   AudioEnable    : NO                   
+AviInfoEnable  : YES                   AudioInfoEnable: YES                  
+xvYCCMode      : NO                    HDCPEnable     : NO                   
+DeepColorMode  : 24                    SpdInfoEnable  : NO                   
+OutColorSpace  : RGB                   MpegInfoEnable : NO                   
+DebugEnable    : NO                   
+-------------------------- SWStatus ----------------------------
+ThreadRun      : YES                   RunStatus      : OPEN START
+TMDSMode       : HDMI1.4               
+KernelCnt      : 0                     UserCnt        : 1                    
+KCallBack      : YES                   UCallBackCnt   : 0                    
+TransitState   : NONE
+-------------------------- HWStatus ----------------------------
+HotPlug        : YES                   Rsen           : YES                  
+PhyOutputEnable: YES                   PhyPowerEnable : YES                  
+TMDSMode       : HDMI1.4               AvMute         : NO                   
+SourceScramble : NO                    SinkScramble   : NO                   
+TMDSBitClkRatio: 10                    DataSwing      : 0x16                   
+CLKSwing       : 0x15                  SrcTermination : 0x0                    
+TxVnbValue     : 0x2                   AdjustClk      : 0x1                    
+TxRegZone      : 0x82                  
+----------------- TaskID=394 Event Pool[0] Status ----------------------
+CNT|ErrTotal|HPD|UnHPD|EdidFail|HdcpFail|HdcpSucc|RsenCon|RsenDis|HdcpUsr
+WR:|0       |0  |0    |0       |0       |0       |0      |0      |0      
+RD:|0       |0  |0    |0       |0       |0       |0      |0      |0      
+Memory[WkFlg=0 |RdAble= 0| RdPtr=0 | WrPtr=0 ]:
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[HDMI] Version:[Hi3536_MPP_V1.0.7.0 B010 Release] Build Time:[Aug 11 2017, 12:08:49]
+
+HDMI Version:   2.0.0.20170227.0
+------------ AudioAttr --------------------------- AudioIfno ------------
+SoundIntf      : I2S                  |AudioInfoEnable: NO                   
+CodeType       : STREAM               |CodeType       : STREAM               
+ChannelCnt     : 2_CH                 |ChannelCnt     : 2_CH                 
+SampleFreq     : 48000                |SampleFreq     : STR_HEADER           
+SampleDepth    : 16                   |SampleDepth    : 16                   
+DownSample     : NO                   |SampleSize     : STR_HEADER           
+------------ AudioPath ---------------|DownMixInhibit : NO                   
+AudioEnable    : NO                   |LevelShiftValue: 0                    
+AudioMute      : NO                   |LFEPlayBack    : UNKNOW               
+SoundIntf      : I2S                  |Channel/SpeakerAlloc: 0x00 (0)
+ChannelCnt     : 2_CH                 |AudioInfoRawData: 
+SampleFreq     : 48000                | 84 01 0a 70  01 00 00 00 
+SampleDepth    : 16                   | 00 00 00 00  00 00 
+DownSample     : NO                   |
+CTS            : N/A                  |
+N              : N/A                  |
+AudioFIFO      : N/A                  |
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[HDMI] Version:[Hi3536_MPP_V1.0.7.0 B010 Release] Build Time:[Aug 11 2017, 12:08:49]
+
+HDMI Version:   2.0.0.20170227.0
+--------------------------------------- EDIDRawData -----------------------------------------
+/*00H:*/ 0x00,0xff,0xff,0xff,  0xff,0xff,0xff,0x00,  0x05,0xe3,0x01,0x27,  0x42,0x07,0x00,0x00,  
+/*0fH:*/ 0x17,0x1e,0x01,0x03,  0x80,0x3c,0x22,0x78,  0x2a,0xc2,0xf1,0xa3,  0x56,0x4e,0x9e,0x26,  
+/*1fH:*/ 0x14,0x50,0x54,0xbf,  0xef,0x00,0xd1,0xc0,  0xb3,0x00,0x95,0x00,  0x81,0x80,0x81,0x40,  
+/*2fH:*/ 0x81,0xc0,0x01,0x01,  0x01,0x01,0x02,0x3a,  0x80,0x18,0x71,0x38,  0x2d,0x40,0x58,0x2c,  
+/*3fH:*/ 0x45,0x00,0x56,0x50,  0x21,0x00,0x00,0x1e,  0x00,0x00,0x00,0xff,  0x00,0x4e,0x48,0x52,  
+/*4fH:*/ 0x4c,0x36,0x42,0x41,  0x30,0x30,0x31,0x38,  0x35,0x38,0x00,0x00,  0x00,0xfc,0x00,0x32,  
+/*5fH:*/ 0x37,0x42,0x31,0x0a,  0x20,0x20,0x20,0x20,  0x20,0x20,0x20,0x20,  0x00,0x00,0x00,0xfd,  
+/*6fH:*/ 0x00,0x32,0x4c,0x1e,  0x53,0x11,0x00,0x0a,  0x20,0x20,0x20,0x20,  0x20,0x20,0x01,0x8c,  
+/*7fH:*/ 0x02,0x03,0x1e,0xf1,  0x4b,0x10,0x1f,0x05,  0x14,0x04,0x13,0x03,  0x12,0x02,0x11,0x01,  
+/*8fH:*/ 0x23,0x09,0x07,0x07,  0x83,0x01,0x00,0x00,  0x65,0x03,0x0c,0x00,  0x10,0x00,0x8c,0x0a,  
+/*9fH:*/ 0xd0,0x8a,0x20,0xe0,  0x2d,0x10,0x10,0x3e,  0x96,0x00,0x56,0x50,  0x21,0x00,0x00,0x18,  
+/*afH:*/ 0x01,0x1d,0x00,0x72,  0x51,0xd0,0x1e,0x20,  0x6e,0x28,0x55,0x00,  0x56,0x50,0x21,0x00,  
+/*bfH:*/ 0x00,0x1e,0x8c,0x0a,  0xd0,0x8a,0x20,0xe0,  0x2d,0x10,0x10,0x3e,  0x96,0x00,0x56,0x50,  
+/*cfH:*/ 0x21,0x00,0x00,0x18,  0x8c,0x0a,0xd0,0x90,  0x20,0x40,0x31,0x20,  0x0c,0x40,0x55,0x00,  
+/*dfH:*/ 0x56,0x50,0x21,0x00,  0x00,0x18,0x00,0x00,  0x00,0x00,0x00,0x00,  0x00,0x00,0x00,0x00,  
+/*efH:*/ 0x00,0x00,0x00,0x00,  0x00,0x00,0x00,0x00,  0x00,0x00,0x00,0x00,  0x00,0x00,0x00,0x11,
+------------------------------ SWStatus -------------------------------------------
+CapFromSink         : YES                  RawUpdateErrCnt     : 0                    
+CapIsValid          : YES                  ParseErrorType      : 0                    
+RawIsValid          : YES                  ParseWarnType       : 0x00000000
+RawGetErrCnt        : 0                    RawLength           : 256                  
+------------------------------ BasicCap -------------------------------------------
+HDMI1.4Support      : YES                  1stBlockVersion     : 1.3
+HDMI2.0Support      : NO                   ManufacturerName    : AOC                  
+MaxTMDSClock(MHz)   : 0                    ProductCode         : 9985                 
+HDCP1.4Support      : N/A                  SerialNumber        : 1858                 
+HDCP2.2Support      : NO                   WeekOfManufacture   : 23                   
+SCDCSupport         : NO                   YearOfManufacture   : 2020                 
+DVIDualSupport      : NO                   CECAddrIsValid      : YES                  
+AISupport           : NO                   CECAddr             : 01.00.00.00
+ExtBlockCnt         : 1                    SpeakerSupport      : FL_FR          
+------------------------------ VidoCap --------------------------------------------
+NativeFormat        : 1080P_60 16:9(VIC 16)
+ColorSpace          : RGB444 YCbCr444 YCbCr422
+DeepColor           :
+YCbCr420DeepColor   :
+YCbCr420[Also]      :
+YCbCr420[Olny]      :
+Colorimetry         :
+------------------------------ FormatCap ------------------------------------------
+1080P_60 16:9        1080P_50 16:9        1080i_60 16:9        1080i_50 16:9        
+720P_60 16:9         720P_50 16:9         480P_60 16:9         576P_50 16:9         
+480P_60 4:3          576P_50 4:3          640X480_60 4:3       1920x1080            
+1680x1050            1440x900             1280x1024            1280x960             
+1280x720             V800X600_60          V800X600_56          V640X480_75          
+V640X480_72          V640X480_67          V640X480_60          V720X400_88          
+V720X400_70          V1280X1024_75        V1024X768_75         V1024X768_70         
+V1024X768_60         V1024X768_87         V832X624_75          
+------------------------------ 3DCap ----------------------------------------------
+3DSupport           : NO                   3DOsdDisparity      : NO                   
+3DDualView          : NO                   3DIndepView         : NO                   
+3DTypeSupport       :
+------------------------------ AudioCap -------------------------------------------
+NO.0: 
+CodeType            : L-PCM                MaxChannelNum       : 2                    
+MaxBitRate(KHz)     : N/A                  BitDepth            : 16 20 24
+SampleRate(Hz)      : 32000 44100 48000
+------------------------------ DetailTiming ------------------------------------------
+[NO.]:HACT|VACT|P/I |PClk|AspW|AspH|HFB |HPW |HBB |VFB |VPW |VBB |ImgW|ImgH|IHS |IVS |IDV 
+[  0]:1920|1080|P   |148M|0   |0   |88  |44  |192 |4   |5   |41  |598 |336 |YES |YES |NO  
+[  1]:0   |3468|P   |30 M|0   |0   |138 |544 |4294967174|62  |16  |4294967244|784 |3600|NO  |NO  |NO  
+[  2]:256 |1   |P   |85 M|0   |0   |114 |337 |1934|61  |32  |4294967264|544 |2158|NO  |NO  |NO  
+[  3]:256 |3468|P   |85 M|0   |0   |138 |544 |3446|62  |16  |4294967244|784 |3600|NO  |NO  |NO  
+[  4]:256 |3468|P   |85 M|0   |0   |144 |800 |1904|4   |16  |6   |1056|12  |NO  |NO  |NO  
+[  5]:256 |0   |P   |85 M|0   |0   |0   |0   |2048|0   |0   |0   |0   |0   |NO  |NO  |NO  
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[HDMI] Version:[Hi3536_MPP_V1.0.7.0 B010 Release] Build Time:[Aug 11 2017, 12:08:49]
+
+HDMI Version:   2.0.0.20170227.0
+------------ VideoAttr --------------------------- AVIIfno --------------
+VideoTiming    : 1920*1080p60 16:9    |AVIInfoEnable  : YES                  
+DispFmt        : 1080P@60             |CurrentFormat  : 1920*1080p60 16:9(VIC=16)
+PixelClk       : 148500               |VSIFormat      : (HDMI_VIC= 0)
+InBitDepth     : 10 Bit               |BarDataPresent : NONE                 
+InColorSpace   : YCbCr444             |ColorSpace     : RGB                  
+Colorimetry    : ITU-R BT.709         |Colorimetry    : ITU-R BT.709         
+PicAspectRatio : 16:9                 |PicAspectRatio : 16:9                 
+ActAspectRatio : PICTURE              |ActAspectRatio : PICTURE              
+PixelRepeat    : 1                    |PixelRepeat    : No Repetition        
+YCCQuantization: LIMITED              |YCCQuantization: LIMITED              
+RGBQuantization: DEFAULT              |RGBQuantization: DEFAULT              
+ExtColorimetry : XV_YCC601            |ExtColorimetry : XV_YCC601            
+StereoMode     : NONE                 |ItContentValid : NO                   
+HvSyncPol      : HPVP                 |HvSyncPol      : HPVP                 
+------------ VedioPath ---------------|ITContentType  : GRAPHICS             
+VideoMute      : NO                   |PicScaling     : UNKNOW               
+OutBitDepth    : 08 Bit               |ActFmtPresent  : YES                  
+OutColorSpace  : RGB                  |ScanInfo       : NONE                 
+YCbCr420_422   : NO                   |AVIInfoRawData :
+YCbCr422_444   : NO                   | 82 02 0d a7  10 a8 00 10 
+YCbCr444_422   : NO                   | 00 00 00 00  00 00 00 00 
+YCbCr422_420   : NO                   | 00 
+RGB2YCbCr      : NO                   |VSInfoRawData  :
+YCbCr2RGB      : YES                  | 00 00 00 00 
+Dither         : NO                   |
+------------  info from master arm -------------
+layer name                   	 :layer_0 
+Open count                   	 :0
+Show state                   	 :OFF
+Start position               	 :(0, 0)
+xres, yres                   	 :(1280, 720)
+xres_virtual, yres_virtual   	 :(1280, 720)
+xoffset, yoffset             	 :(0, 0)
+fix.line_length              	 :5120
+Mem size:                    	 :32400 KB
+Layer Scale (hw):            	 :NO 
+ColorFormat:                 	 :ARGB1555
+Alpha Enable                 	 :OFF
+AlphaChannel Enable          	 :OFF
+Alpha0, Alpha1               	 :0, 0
+Alpha Global                 	 :0
+Colorkey Enable              	 :OFF
+Colorkey value               	 :0x0
+Deflicker Mode:              	 :NONE
+Deflicker Level:             	 :NONE
+Filter Mode:                 	 :COLOR
+Display Buffer mode          	 :triple
+Displaying addr (register)   	 :0x0
+display buffer[0] addr       	 :0x0
+display buffer[1] addr       	 :0x0
+displayrect                  	 :(0, 0)
+screenrect                   	 :(0, 0)
+device max resolution        	 :0, 0
+IsNeedFlip(2buf)             	 :NO
+BufferIndexDisplaying(2buf)  	 :0
+refresh request num(2buf)    	 :0
+switch buf num(2buf)         	 :0
+union rect (2buf)            	 :(0,0,0,0)
+canavas updated addr         	 :0x0
+canavas updated (x, y, w, h) 	 :(0,0,0,0) 
+canvas width                 	 :0
+canvas height                	 :0
+canvas pitch                 	 :0
+canvas format                	 :RGB565
+IsCompress                   	 :NO
+Is DDR Dettect               	 :NO
+DDR Detect Zones           	 :0
+PreMul Enable                 	 :OFF
+
+------------  info from master arm -------------
+layer name                   	 :layer_1 
+Open count                   	 :0
+Show state                   	 :OFF
+Start position               	 :(0, 0)
+xres, yres                   	 :(1280, 720)
+xres_virtual, yres_virtual   	 :(1280, 720)
+xoffset, yoffset             	 :(0, 0)
+fix.line_length              	 :5120
+Mem size:                    	 :8100 KB
+Layer Scale (hw):            	 :NO 
+ColorFormat:                 	 :ARGB1555
+Alpha Enable                 	 :OFF
+AlphaChannel Enable          	 :OFF
+Alpha0, Alpha1               	 :0, 0
+Alpha Global                 	 :0
+Colorkey Enable              	 :OFF
+Colorkey value               	 :0x0
+Deflicker Mode:              	 :NONE
+Deflicker Level:             	 :NONE
+Filter Mode:                 	 :COLOR
+Display Buffer mode          	 :triple
+Displaying addr (register)   	 :0x0
+display buffer[0] addr       	 :0x0
+display buffer[1] addr       	 :0x0
+displayrect                  	 :(0, 0)
+screenrect                   	 :(0, 0)
+device max resolution        	 :0, 0
+IsNeedFlip(2buf)             	 :NO
+BufferIndexDisplaying(2buf)  	 :0
+refresh request num(2buf)    	 :0
+switch buf num(2buf)         	 :0
+union rect (2buf)            	 :(0,0,0,0)
+canavas updated addr         	 :0x0
+canavas updated (x, y, w, h) 	 :(0,0,0,0) 
+canvas width                 	 :0
+canvas height                	 :0
+canvas pitch                 	 :0
+canvas format                	 :RGB565
+IsCompress                   	 :NO
+Is DDR Dettect               	 :NO
+DDR Detect Zones           	 :0
+PreMul Enable                 	 :OFF
+
+------------  info from master arm -------------
+layer name                   	 :layer_2 
+Open count                   	 :0
+Show state                   	 :OFF
+Start position               	 :(0, 0)
+xres, yres                   	 :(720, 576)
+xres_virtual, yres_virtual   	 :(720, 576)
+xoffset, yoffset             	 :(0, 0)
+fix.line_length              	 :1440
+Mem size:                    	 :2160 KB
+Layer Scale (hw):            	 :NO 
+ColorFormat:                 	 :ARGB1555
+Alpha Enable                 	 :OFF
+AlphaChannel Enable          	 :OFF
+Alpha0, Alpha1               	 :0, 0
+Alpha Global                 	 :0
+Colorkey Enable              	 :OFF
+Colorkey value               	 :0x0
+Deflicker Mode:              	 :NONE
+Deflicker Level:             	 :NONE
+Filter Mode:                 	 :COLOR
+Display Buffer mode          	 :triple
+Displaying addr (register)   	 :0x0
+display buffer[0] addr       	 :0x0
+display buffer[1] addr       	 :0x0
+displayrect                  	 :(0, 0)
+screenrect                   	 :(0, 0)
+device max resolution        	 :0, 0
+IsNeedFlip(2buf)             	 :NO
+BufferIndexDisplaying(2buf)  	 :0
+refresh request num(2buf)    	 :0
+switch buf num(2buf)         	 :0
+union rect (2buf)            	 :(0,0,0,0)
+canavas updated addr         	 :0x0
+canavas updated (x, y, w, h) 	 :(0,0,0,0) 
+canvas width                 	 :0
+canvas height                	 :0
+canvas pitch                 	 :0
+canvas format                	 :RGB565
+IsCompress                   	 :NO
+Is DDR Dettect               	 :NO
+DDR Detect Zones           	 :0
+PreMul Enable                 	 :OFF
+
+------------  info from master arm -------------
+layer name                   	 :layer_3 
+Open count                   	 :0
+Show state                   	 :OFF
+Start position               	 :(0, 0)
+xres, yres                   	 :(128, 128)
+xres_virtual, yres_virtual   	 :(128, 128)
+xoffset, yoffset             	 :(0, 0)
+fix.line_length              	 :5120
+Mem size:                    	 :128 KB
+Layer Scale (hw):            	 :NO 
+ColorFormat:                 	 :ARGB1555
+Alpha Enable                 	 :OFF
+AlphaChannel Enable          	 :OFF
+Alpha0, Alpha1               	 :0, 0
+Alpha Global                 	 :0
+Colorkey Enable              	 :OFF
+Colorkey value               	 :0x0
+Deflicker Mode:              	 :NONE
+Deflicker Level:             	 :NONE
+Filter Mode:                 	 :COLOR
+Display Buffer mode          	 :triple
+Displaying addr (register)   	 :0x0
+display buffer[0] addr       	 :0x0
+display buffer[1] addr       	 :0x0
+displayrect                  	 :(0, 0)
+screenrect                   	 :(0, 0)
+device max resolution        	 :0, 0
+IsNeedFlip(2buf)             	 :NO
+BufferIndexDisplaying(2buf)  	 :0
+refresh request num(2buf)    	 :0
+switch buf num(2buf)         	 :0
+union rect (2buf)            	 :(0,0,0,0)
+canavas updated addr         	 :0x0
+canavas updated (x, y, w, h) 	 :(0,0,0,0) 
+canvas width                 	 :0
+canvas height                	 :0
+canvas pitch                 	 :0
+canvas format                	 :RGB565
+IsCompress                   	 :NO
+Is DDR Dettect               	 :NO
+DDR Detect Zones           	 :0
+PreMul Enable                 	 :OFF
+
+------------  info from master arm -------------
+layer name                   	 :layer_4 
+Open count                   	 :0
+Show state                   	 :OFF
+Start position               	 :(0, 0)
+xres, yres                   	 :(128, 128)
+xres_virtual, yres_virtual   	 :(128, 128)
+xoffset, yoffset             	 :(0, 0)
+fix.line_length              	 :5120
+Mem size:                    	 :128 KB
+Layer Scale (hw):            	 :NO 
+ColorFormat:                 	 :ARGB1555
+Alpha Enable                 	 :OFF
+AlphaChannel Enable          	 :OFF
+Alpha0, Alpha1               	 :0, 0
+Alpha Global                 	 :0
+Colorkey Enable              	 :OFF
+Colorkey value               	 :0x0
+Deflicker Mode:              	 :NONE
+Deflicker Level:             	 :NONE
+Filter Mode:                 	 :COLOR
+Display Buffer mode          	 :triple
+Displaying addr (register)   	 :0x0
+display buffer[0] addr       	 :0x0
+display buffer[1] addr       	 :0x0
+displayrect                  	 :(0, 0)
+screenrect                   	 :(0, 0)
+device max resolution        	 :0, 0
+IsNeedFlip(2buf)             	 :NO
+BufferIndexDisplaying(2buf)  	 :0
+refresh request num(2buf)    	 :0
+switch buf num(2buf)         	 :0
+union rect (2buf)            	 :(0,0,0,0)
+canavas updated addr         	 :0x0
+canavas updated (x, y, w, h) 	 :(0,0,0,0) 
+canvas width                 	 :0
+canvas height                	 :0
+canvas pitch                 	 :0
+canvas format                	 :RGB565
+IsCompress                   	 :NO
+Is DDR Dettect               	 :NO
+DDR Detect Zones           	 :0
+PreMul Enable                 	 :OFF
+
+------------  info from master arm -------------
+
+[IVE] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:27]
+
+-------------------------------MODULE PARAM--------------------------------------
+      save_power     max_node_num
+               1              512
+
+-------------------------------IVE QUEUE INFO------------------------------------
+      Wait      Busy WaitCurId WaitEndId BusyCurId BusyEndId
+         0        -1         0         0         0         0
+
+--------------------------------IVE TASK INFO------------------------------------
+       Hnd   TaskFsh    LastId    TaskId   HndWrap   FshWrap
+         0         0         0         0         0         0
+
+----------------------------------IVE INVOKE INFO--------------------------------
+
+       DMA     Filter       CSC    FltCsc     Sobel    MagAng    Dilate     Erode
+         0          0         0         0         0         0         0         0
+
+    Thresh        And       Sub        Or     Integ      Hist ThreshS16 ThreshU16
+         0          0         0         0         0         0         0         0
+
+     16to8 OrdStatFlt   BernSen       Map    EqualH       Add       Xor       NCC
+         0          0         0         0         0         0         0         0
+
+       CCL        GMM     Canny       LBP  NormGrad        LK ShiTomasi    GradFg
+         0          0         0         0         0         0         0         0
+
+  MatchMod  UpdateMod     Radon       ANN       SVM    AdpThr  LineFltH  NoiseRmH
+         0          0         0         0         0         0         0         0
+
+ PlateChar        SAD
+         0          0
+
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+
+[JPEGE] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:09:10]
+
+-----MODULE PARAM--------------------------------------------------------------
+        OnePack     JpegeMiniBufMode
+              0                    0
+
+-----ATTRIBUTE1-----------------------------------------------------------------
+ID	bMjpeg PicType  MaxWidth MaxHeight   Width	Height	   BufSize	 ByFrm	   MCU	Qfactor	C2GEn	DcfEn	
+
+-----STATUS1-------------------------------------------------------------------
+ID	   BufLen	  FreeLen	  StrmCnt	  MaxStrm	
+
+-----STATUS2-------------------------------------------------------------------
+ID    PicRec    PicCoded    PicDroped    PicDisc    NoStmCnt    RcFail    PicRecode    UnrdStr      
+
+-----STREAM BUFFER-------------------------------------------------------------
+ID  Base          RdTail      RdHead      WrTail      WrHead      BufLen      DataLen     BufFree   
+
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+-----LOG BUFFER STATE----------------------------------------------------------
+MaxLen  ReadPos WritePos ButtPos
+ 64(KB)    3893     3892   65059
+
+-----CURRENT LOG LEVEL---------------------------------------------------------
+vb	:  3
+sys	:  3
+rgn	:  3
+chnl	:  3
+vdec	:  3
+vpss	:  3
+venc	:  3
+vda	:  3
+h264e	:  3
+jpege	:  3
+vfmw	:  3
+vo	:  3
+vi	:  3
+rc	:  3
+hdmi	:  3
+vgs	:  3
+------------  info from master arm -------------
+-----LOG BUFFER STATE----------------------------------------------------------
+MaxLen  ReadPos WritePos ButtPos
+ 64(KB)   48513    48512   65038
+
+-----CURRENT LOG LEVEL---------------------------------------------------------
+vb	:  3
+sys	:  3
+rgn	:  3
+vdec	:  3
+vpss	:  3
+venc	:  3
+vda	:  3
+vo	:  3
+vi	:  3
+aio	:  3
+ai	:  3
+ao	:  3
+aenc	:  3
+adec	:  3
+ive	:  3
+fb	:  3
+hdmi	:  3
+tde	:  3
+vgs	:  3
+
+------------  info from slave arm -------------
+/proc/umap/mstlogmpp not exsit 
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+/proc/umap/pciv not exsit 
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+/proc/umap/pcivfmw not exsit 
+------------  info from master arm -------------
+no proc from master
+
+------------  info from slave arm -------------
+
+[RC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:09:10]
+
+----- BASE PARAMS ------------------------------------------------------------------
+     ID    Gop  StatTm  ViFr       TrgFr ProType  RcMode  Br(kbps)  FluLev  IQp  PQp 
+
+-----RUN COMM PARAM 1------------------------------------------------------------
+ChnId  RowQpDelta                       ThrdI(12)
+
+-----RUN COMM PARAM 2------------------------------------------------------------
+ChnId  FirstFrmStartQP                  ThrdP(12)
+
+-----RUN COMM PARAM 3------------------------------------------------------------
+ChnId   bLost     LostThr  LostFrmStr    EncGap  RCPriority   EnIDR   SprFrmMod    SprIFrm    SprPFrm    SprBFrm
+
+-----RUN CBR PARAM1 -------------------------------------------------------------
+     ID  MinIprop  MaxIprop   MaxQp   MinQp  MaxIQp  MinIQp   IPQpDelta  QLevel  MaxReEncTimes
+
+-----RUN VBR PARAM --------------------------------------------------------------
+     ID   IPQpDelta   ChgPs  MinIprop  MaxIprop  MaxStillQP  MinPercent  MaxReEncTimes   MinStillPSNR   MaxQp   MinQp  MaxIQp  MinIQp
+
+-----RUN INFO1-----------------------------------------------------------------
+     ID   InsBr(kbps)   InsFr    WatL   CfgBt(kb)  RealBt(kb)       IPRatio  TarPercent   StartQp   MinQp   MaxQp
+------------  info from master arm -------------
+
+[RGN] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+
+------------  info from slave arm -------------
+
+[RGN] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:56]
+
+------------  info from master arm -------------
+
+[SYS] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+System State: 0 (0: initialized; 1: exiting; 2: exited)
+System Align: 16 
+System Pts: 25115889702.
+Mem Total:    512(M)
+
+-----MEM TABLE--------------------------------------------------------
+   MOD           MODNAME DEV CHN           MMZNAME
+
+-----BIND RELATION TABLE--------------------------------------------------------
+  FirMod  FirDev  FirChn  SecMod  SecDev  SecChn  TirMod  TirDev  TirChn SendCnt  rstCnt
+
+------------  info from slave arm -------------
+
+[SYS] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:56]
+
+System State: 0 (0: initialized; 1: exiting; 2: exited)
+System Align: 16 
+Mem Total:    1024(M)
+
+-----SCALE COEFF INFO-----------------------------------------------------------
+           RangeLevel         RangeValue    HorLum    HorChr    VerLum    VerChr
+                  RANGE_0     (0,   1/4)   LEVEL_0   LEVEL_0   LEVEL_0   LEVEL_0
+                  RANGE_1     [1/4, 1/3)   LEVEL_1   LEVEL_0   LEVEL_1   LEVEL_0
+                  RANGE_2     [1/3, 1/2)   LEVEL_2   LEVEL_1   LEVEL_2   LEVEL_1
+                  RANGE_3     [1/2, 3/4)   LEVEL_3   LEVEL_2   LEVEL_3   LEVEL_2
+                  RANGE_4     [3/4,   1)   LEVEL_3   LEVEL_2   LEVEL_4   LEVEL_2
+                  RANGE_5     [1,     1]   LEVEL_4   LEVEL_3   LEVEL_5   LEVEL_3
+                  RANGE_6     (1,   MAX)   LEVEL_5   LEVEL_2   LEVEL_6   LEVEL_2
+
+-----MEM TABLE--------------------------------------------------------
+   MOD           MODNAME DEV CHN           MMZNAME
+
+-----BIND RELATION TABLE--------------------------------------------------------
+  FirMod  FirDev  FirChn  SecMod  SecDev  SecChn  TirMod  TirDev  TirChn    SendCnt     rstCnt
+    vdec       0       0    vpss       0       0      vo       0       0        985          0
+    vdec       0       1    vpss       1       0      vo       0       1          0          0
+    vdec       0       2    vpss       2       0      vo       0       2          0          0
+    vdec       0       3    vpss       3       0      vo       0       3          0          0
+    vdec       0       4    vpss       4       0      vo       0       4          0          0
+    vdec       0       5    vpss       5       0      vo       0       5          0          0
+    vdec       0       6    vpss       6       0      vo       0       6          0          0
+    vdec       0       7    vpss       7       0      vo       0       7          0          0
+    vdec       0       8    vpss       8       0      vo       0       8          0          0
+    vdec       0       9    vpss       9       0      vo       0       9          0          0
+    vdec       0      10    vpss      10       0      vo       0      10          0          0
+    vdec       0      11    vpss      11       0      vo       0      11          0          0
+    vdec       0      12    vpss      12       0      vo       0      12          0          0
+    vdec       0      13    vpss      13       0      vo       0      13          0          0
+    vdec       0      14    vpss      14       0      vo       0      14          0          0
+    vdec       0      15    vpss      15       0      vo       0      15          0          0
+    vpss       0       0      vo       0       0    null       0       0          0          0
+    vpss       1       0      vo       0       1    null       0       0          0          0
+    vpss       2       0      vo       0       2    null       0       0          0          0
+    vpss       3       0      vo       0       3    null       0       0          0          0
+    vpss       4       0      vo       0       4    null       0       0          0          0
+    vpss       5       0      vo       0       5    null       0       0          0          0
+    vpss       6       0      vo       0       6    null       0       0          0          0
+    vpss       7       0      vo       0       7    null       0       0          0          0
+    vpss       8       0      vo       0       8    null       0       0          0          0
+    vpss       9       0      vo       0       9    null       0       0          0          0
+    vpss      10       0      vo       0      10    null       0       0          0          0
+    vpss      11       0      vo       0      11    null       0       0          0          0
+    vpss      12       0      vo       0      12    null       0       0          0          0
+    vpss      13       0      vo       0      13    null       0       0          0          0
+    vpss      14       0      vo       0      14    null       0       0          0          0
+    vpss      15       0      vo       0      15    null       0       0          0          0
+------------  info from master arm -------------
+--------- Hisilicon TDE Memory Pool Info ---------
+     Type         Total       Used
+[Unit 64 ]       1255         3
+[Unit 96 ]       1255         0
+[Unit 256]       1255         0
+[Unit1024]          2         2
+[Total   ]        511K        2K
+
+------------  info from master arm -------------
+
+[VB] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+-----VB PUB CONFIG-------------------------------------------------------------
+Max Count of Pools:        256
+
+
+
+------------  info from slave arm -------------
+
+[VB] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:56]
+
+-----VB PUB CONFIG-------------------------------------------------------------
+Max Count of Pools:        256
+
+-----VB SUPPLEMENT ATTR--------------------------------------------------------
+Supplement Config:     0
+Supplement Size:       0
+Vb Total Cnt:        189
+
+-----COMMON POOL CONFIG--------------------------------------------------------
+PoolId           0           1
+Size       1382400    16588800
+Count           20           5
+
+-----MODULE COMMON POOL CONFIG of VB_UID <4> ---------------------------------
+PoolId           0
+Size       1413120
+Count          160
+
+------------------------------------------------------------------------------
+PoolId    PhysAddr    VirtAddr    IsComm    Owner     BlkSz    BlkCnt      Free       MinFree
+     0  0x86010000  0x0                1       -1   1382400        20      20(20)        20
+
+------------------------------------------------------------------------------
+PoolId    PhysAddr    VirtAddr    IsComm    Owner     BlkSz    BlkCnt      Free       MinFree
+     1  0x87a6e000  0x0                1       -1  16588800         5       5(5)         5
+
+------------------------------------------------------------------------------
+PoolId    PhysAddr    VirtAddr    IsComm    Owner     BlkSz    BlkCnt      Free       MinFree
+     2  0x8cb3a000  0x0                1        4   1413120       160     158(158)       157
+ BLK   VIU   VOU   VGS  VENC  VDEC   VDA H264E JPEGE MPEGE H264D JPEGD MPEGD  VPSS   GRP   MPI  PCIV    AI  AENC    RC  VFMW  USER H265E
+  24     0     0     0     0     1     0     0     0     0     0     0     0     1     0     0     0     0     0     0     1     0     0
+  25     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     1     0     0
+Sum      0     0     0     0     1     0     0     0     0     0     0     0     1     0     0     0     0     0     0     2     0     0
+
+------------------------------------------------------------------------------
+PoolId    PhysAddr    VirtAddr    IsComm    Owner     BlkSz    BlkCnt      Free       MinFree
+     3  0xa0b3f000  0x0                0       -2   3110400         4       0(0)         0
+ BLK   VIU   VOU   VGS  VENC  VDEC   VDA H264E JPEGE MPEGE H264D JPEGD MPEGD  VPSS   GRP   MPI  PCIV    AI  AENC    RC  VFMW  USER H265E
+   0     0    17     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+   1     0    18     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+   2     0    18     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+   3     0    17     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+Sum      0     4     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+------------  info from master arm -------------
+
+[VDA] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+-----VDA CHN ATTR----------------------------------------------------------
+NO.  State  SBAddr  SBInfoAddr  bSel  bDstring
+
+-----VDA CHN ATTR OF CB BUFF--------------------------------------------------------
+ NO.  State  PhyAddr  VirAddr BufLen  RdH  RdT  WrH  WrT
+
+------------  info from slave arm -------------
+
+[VDA] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:57]
+
+-----VDA CHN ATTR----------------------------------------------------------
+NO.    W    H  Mode   Alg  MbSz MbBit RfM BufN  Itl BgWt RgnN
+
+-----VDA CHN ATTR 2--------------------------------------------------------
+ NO. Rgn    X    Y    W    H SadTh  ArTh  OcTh  UnOcTh  ObjN  Sad  Obj  Plx
+
+-----VDA STATE------------------------------------------------------------------
+ NO. Rgn    BgPhy BgSrd    RfPhy   RfStd bScdu bFst  OcCt  UnOc        VdaC  bRefUp
+
+-----VDA STATE2-------------------------------------------------------------------------------------------------------------
+ NO.   MemPhy   MemVir  MemSz   CRfPhy RgnIx        ViSd      VdecSd      VpssSd      UserSd        Recv     LstPicC
+
+-----VDA CALL VGS STATE-----------------------------------------------------------------------------------------------------
+ NO.     CallCnt      JobSuc     JobFail     TaskSuc    TaskFail      EndSuc     EndFail       CbCnt    JobFinOk  JobFinFail
+------------  info from master arm -------------
+
+[VDEC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+-----message info--------------------------------------------------------------
+  ID     WakeupVfmw
+   0            991
+   1              0
+   2              0
+   3              0
+   4              0
+   5              0
+   6              0
+   7              0
+   8              0
+   9              0
+  10              0
+  11              0
+  12              0
+  13              0
+  14              0
+  15              0
+
+------------  info from slave arm -------------
+
+[VDEC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:57]
+
+-----MODULE PARAM--------------------------------------------------------------
+  obey_minCR    MiniBufMode     VBSource  StreamCompaMode
+           0              0            0                0
+
+-----CHN ATTR & PARAMS-------------------------------------------------------
+  ID  TYPE   Prior    MaxW    MaxH   Width  Height   StrmInputMode  VideoFmt  Compress   STATE
+   0  H264       5    1280     720    1280     720  STREAM/NOBLOCK      TILE         N   START
+   1  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   2  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   3  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   4  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   5  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   6  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   7  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   8  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+   9  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  10  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  11  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  12  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  13  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  14  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  15  H264       5    1280     720       0       0  STREAM/NOBLOCK      TILE         N   START
+  ID  VfmwID  RefNum MvpEnable   DispNum     BufSize  MaxSlice  MaxSPS  MaxPPS  MaxVPS  DisplayMode
+   0       0       3        No         2     2764800        16       2       2       0     PlayBack
+   1       1       3        No         2     2764800        16       2       2       0     PlayBack
+   2       2       3        No         2     2764800        16       2       2       0     PlayBack
+   3       3       3        No         2     2764800        16       2       2       0     PlayBack
+   4       4       3        No         2     2764800        16       2       2       0     PlayBack
+   5       5       3        No         2     2764800        16       2       2       0     PlayBack
+   6       6       3        No         2     2764800        16       2       2       0     PlayBack
+   7       7       3        No         2     2764800        16       2       2       0     PlayBack
+   8       8       3        No         2     2764800        16       2       2       0     PlayBack
+   9       9       3        No         2     2764800        16       2       2       0     PlayBack
+  10      10       3        No         2     2764800        16       2       2       0     PlayBack
+  11      11       3        No         2     2764800        16       2       2       0     PlayBack
+  12      12       3        No         2     2764800        16       2       2       0     PlayBack
+  13      13       3        No         2     2764800        16       2       2       0     PlayBack
+  14      14       3        No         2     2764800        16       2       2       0     PlayBack
+  15      15       3        No         2     2764800        16       2       2       0     PlayBack
+  ID  ErrThr    StrmThr   DecMode   OutMode  SetUserPic    Rotate  PicPoolId  PmvPoolId  PriVbCnt
+   0      30          0        IP       Dec           N         0         -1         -1        -1
+   1      30          0        IP       Dec           N         0         -1         -1        -1
+   2      30          0        IP       Dec           N         0         -1         -1        -1
+   3      30          0        IP       Dec           N         0         -1         -1        -1
+   4      30          0        IP       Dec           N         0         -1         -1        -1
+   5      30          0        IP       Dec           N         0         -1         -1        -1
+   6      30          0        IP       Dec           N         0         -1         -1        -1
+   7      30          0        IP       Dec           N         0         -1         -1        -1
+   8      30          0        IP       Dec           N         0         -1         -1        -1
+   9      30          0        IP       Dec           N         0         -1         -1        -1
+  10      30          0        IP       Dec           N         0         -1         -1        -1
+  11      30          0        IP       Dec           N         0         -1         -1        -1
+  12      30          0        IP       Dec           N         0         -1         -1        -1
+  13      30          0        IP       Dec           N         0         -1         -1        -1
+  14      30          0        IP       Dec           N         0         -1         -1        -1
+  15      30          0        IP       Dec           N         0         -1         -1        -1
+
+-----CHN STATE-----------------------------------------------------------------
+  ID  PrtclErr  StrmUnSP StrmError RefNumErr  PicSizeErr  fmterror  PicBufSizeErr     StrmNotRls    Notify
+   0         0         0         0         0           0         0              0              0      1995
+   1         0         0         0         0           0         0              0              0         0
+   2         0         0         0         0           0         0              0              0         0
+   3         0         0         0         0           0         0              0              0         0
+   4         0         0         0         0           0         0              0              0         0
+   5         0         0         0         0           0         0              0              0         0
+   6         0         0         0         0           0         0              0              0         0
+   7         0         0         0         0           0         0              0              0         0
+   8         0         0         0         0           0         0              0              0         0
+   9         0         0         0         0           0         0              0              0         0
+  10         0         0         0         0           0         0              0              0         0
+  11         0         0         0         0           0         0              0              0         0
+  12         0         0         0         0           0         0              0              0         0
+  13         0         0         0         0           0         0              0              0         0
+  14         0         0         0         0           0         0              0              0         0
+  15         0         0         0         0           0         0              0              0         0
+  ID  fps  TimerCnt   BufFLen   DataLen   UsrFLen    UsrLen   ptsBufF   ptsBufU StreamEnd
+   0   26    273847   3168163         0      4064         0        39         0         0
+   1    0    273847   3227616         0      4064         0        39         0         0
+   2    0    273847   3227616         0      4064         0        39         0         0
+   3    0    273847   3227616         0      4064         0        39         0         0
+   4    0    273847   3227616         0      4064         0        39         0         0
+   5    0    273847   3227616         0      4064         0        39         0         0
+   6    0    273847   3227616         0      4064         0        39         0         0
+   7    0    273846   3227616         0      4064         0        39         0         0
+   8    0    273846   3227616         0      4064         0        39         0         0
+   9    0    273846   3227616         0      4064         0        39         0         0
+  10    0    273846   3227616         0      4064         0        39         0         0
+  11    0    273846   3227616         0      4064         0        39         0         0
+  12    0    273846   3227616         0      4064         0        39         0         0
+  13    0    273846   3227616         0      4064         0        39         0         0
+  14    0    273845   3227616         0      4064         0        39         0         0
+  15    0    273845   3227616         0      4064         0        39         0         0
+
+----- Detail Stream STATE -----------------------------------------------------------
+  ID MpiSndNum           MpiSndLen   VdecNum   VdecLen  FmGetNum            FmGetLen  FmRlsNum            FmRlsLen  FmLstGet FmRlsFail
+   0      1029            58319295         0         0      1047            58319295      1046            58259842     59453         0
+   1         0                   0         0         0         0                   0         0                   0         0         0
+   2         0                   0         0         0         0                   0         0                   0         0         0
+   3         0                   0         0         0         0                   0         0                   0         0         0
+   4         0                   0         0         0         0                   0         0                   0         0         0
+   5         0                   0         0         0         0                   0         0                   0         0         0
+   6         0                   0         0         0         0                   0         0                   0         0         0
+   7         0                   0         0         0         0                   0         0                   0         0         0
+   8         0                   0         0         0         0                   0         0                   0         0         0
+   9         0                   0         0         0         0                   0         0                   0         0         0
+  10         0                   0         0         0         0                   0         0                   0         0         0
+  11         0                   0         0         0         0                   0         0                   0         0         0
+  12         0                   0         0         0         0                   0         0                   0         0         0
+  13         0                   0         0         0         0                   0         0                   0         0         0
+  14         0                   0         0         0         0                   0         0                   0         0         0
+  15         0                   0         0         0         0                   0         0                   0         0         0
+
+----- Detail FrameStore STATE -----------------------------------------------------------
+  ID  FmNewPic GetFromFm   Discard    UsrSnd    KerSnd    KerRls   MeetEnd   FrmInVdec           CurPicPts   RedDiff  MaxRedDiff   DecDiff  MaxDecDiff
+   0       985       985         0         0       985       984       985           0                   0         0           0         0           0
+   1         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   2         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   3         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   4         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   5         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   6         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   7         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   8         0         0         0         0         0         0         0           0                   0         0           0         0           0
+   9         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  10         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  11         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  12         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  13         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  14         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  15         0         0         0         0         0         0         0           0                   0         0           0         0           0
+  ID  FreeNode  VfmwNode   VgsNode VgsWorkingNode  BusyNode  UserNode    RefNum  IsAvalible   VbCnt  MaxVbCnt   GetPicVbFail   GetMvpVbFail NoDisplay
+   0        38         1         0              0         0         1         1           0       2         6              0              0         0
+   1        40         0         0              0         0         0         0           0       0         6              0              0         0
+   2        40         0         0              0         0         0         0           0       0         6              0              0         0
+   3        40         0         0              0         0         0         0           0       0         6              0              0         0
+   4        40         0         0              0         0         0         0           0       0         6              0              0         0
+   5        40         0         0              0         0         0         0           0       0         6              0              0         0
+   6        40         0         0              0         0         0         0           0       0         6              0              0         0
+   7        40         0         0              0         0         0         0           0       0         6              0              0         0
+   8        40         0         0              0         0         0         0           0       0         6              0              0         0
+   9        40         0         0              0         0         0         0           0       0         6              0              0         0
+  10        40         0         0              0         0         0         0           0       0         6              0              0         0
+  11        40         0         0              0         0         0         0           0       0         6              0              0         0
+  12        40         0         0              0         0         0         0           0       0         6              0              0         0
+  13        40         0         0              0         0         0         0           0       0         6              0              0         0
+  14        40         0         0              0         0         0         0           0       0         6              0              0         0
+  15        40         0         0              0         0         0         0           0       0         6              0              0         0
+
+----- Detail UserData STATE -----------------------------------------------------------
+  ID    MpiGet      MpiGetLen    MpiRls      MpiRlsLen   Discard     DiscardLen GetFromFm   GetFromFmLen   UsrFLen    UsrLen 
+   0         0              0         0              0         0              0         0              0      4064         0
+   1         0              0         0              0         0              0         0              0      4064         0
+   2         0              0         0              0         0              0         0              0      4064         0
+   3         0              0         0              0         0              0         0              0      4064         0
+   4         0              0         0              0         0              0         0              0      4064         0
+   5         0              0         0              0         0              0         0              0      4064         0
+   6         0              0         0              0         0              0         0              0      4064         0
+   7         0              0         0              0         0              0         0              0      4064         0
+   8         0              0         0              0         0              0         0              0      4064         0
+   9         0              0         0              0         0              0         0              0      4064         0
+  10         0              0         0              0         0              0         0              0      4064         0
+  11         0              0         0              0         0              0         0              0      4064         0
+  12         0              0         0              0         0              0         0              0      4064         0
+  13         0              0         0              0         0              0         0              0      4064         0
+  14         0              0         0              0         0              0         0              0      4064         0
+  15         0              0         0              0         0              0         0              0      4064         0
+------------  info from master arm -------------
+
+[VENC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:42]
+
+-----VENC STATE----------------------------------------------------------------
+      ID   ByFrm   state    CbSize    LftPic   LftStrm  RecvLeft   EncLeft    LftFrm
+
+------------  info from slave arm -------------
+
+[VENC] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:09:10]
+
+-----MODULE PARAM--------------------------------------------------------------
+     VencBufferCache
+                   0
+
+-----VENC CHN ATTR 1-------------------------------------------------------------
+      ID   Width  Height  Type  ByFrame     Timeout    Sequence   LeftBytes     LeftFrm  CurPacks  prio
+
+-----VENC CHN ATTR 2-------------------------------------------------------------
+   VeStr  OsdStr   SrcFr   TarFr     Timeref  PixFmt PicAddr
+
+-----VENC CHN RECEIVE STAT-------------------------------------------------------------
+      ID       Start     StartEx    RecvLeft     EncLeft
+
+-----VENC VPSS QUERY-----------------------------------------------------------
+      ID       Query     QueryOk     QueryFR       Invld        Full      VbFail   QueryFail     InfoErr        Stop
+
+-----VENC SEND1----------------------------------------------------------------
+      ID     VpssSnd     VInfErr     OthrSnd     OInfErr        Send        Stop        Full     CropErr    DrectSnd     SizeErr
+
+-----VENC SEND2----------------------------------------------------------------
+      ID     SendVgs     StartOk   StartFail       IntOk     IntFail      SrcAdd      SrcSub     DestAdd     DestSub
+
+-----VENC PIC QUEUE STATE------------------------------------------------------
+      ID    Free    Busy     Vgs
+
+-----VENC CHNL INFO------------------------------------------------------------
+      ID         Inq       InqOk       Start     StartOk      Config     VencInt  ChaResLost    OverLoad
+
+-----VENC CROP INFO------------------------------------------------------------
+      ID  CropEn  StartX  StartY   Width  Height
+
+-----VENC STREAM STATE------------------------------------------------------------
+      ID     FreeCnt     BusyCnt     UserCnt     UserGet     UserRls    GetTimes    Interval   FrameRate
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[VGS] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:57]
+
+
+-----MODULE PARAM--------------------------------------------------------------
+    max_job_num   max_task_num   max_node_num      threshold
+            128            200            200              6
+
+-----RECENT JOB INFO-----------------------------------------------------------
+   SeqNo ModName  JobHdl TaskNum   bSort   State    InSize   OutSize
+
+-----MAX WASTE TIME JOB INFO---------------------------------------------------
+   SeqNo ModName  JobHdl TaskNum   bSort   State    InSize   OutSize
+
+-----VGS JOB STATUS------------------------------------------------------------
+   Success      Fail    Cancel  AllJobNum    FreeNum   BeginNum    BusyNum ProcingNum
+         0         0         0       128       128         0         0         0
+
+-----VGS TASK STATUS-----------------------------------------------------------
+   Success      Fail    Cancel AllTaskNum    FreeNum    BusyNum
+         0         0         0       200       200         0
+
+-----VGS NODE STATUS-----------------------------------------------------------
+   AllNodeNum   VgsBusyNum   VpssBusyNum    VgsMinFree    VpssMinFree  MaxInJob  SubmitFail   IntFail
+          200            0             0            -1             -1         0           0         0
+
+
+-----VGS INT STATUS------------------------------------------------------------
+    IntNum     IntTm HalProcTm
+         0         0          0
+
+-----VGS MEM REQ STATUS -------------------------------------------------------
+     ReqOk    FreeOk   ReqFail  FreeFail
+         0         0         0         0
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[VIU] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time: [Aug 11 2017, 12:08:58]
+
+-----MODULE PARAM--------------------------------------------------------------
+detect_err_frame drop_err_frame stop_int_level   max_cas_gap vi_vb_source
+              10              0              0        28000            0
+
+-----VI DEV ATTR---------------------------------------------------------------
+ Dev   IntfM  WkM  ComMsk0  ComMsk1    CLKM AD0 AD1 AD2 AD3   Seq   DPath DType DRev   bDllSlave
+
+-----VI HIGH DEV ATTR---------------------------------------------------------------
+ Dev  InputM  WkM  ComMsk0  ComMsk1 AD0 AD1 AD2 AD3   Seq   CombM CompM      ClkM  Fix FldP   DPath DType DRev
+
+-----VI PHYCHN ATTR------------------------------------------------------------
+ PhyChn CapX CapY  CapW  CapH  DstW  DstH CapSel ScanM     SkipM Mirror Flip IntEn PixFom SrcRat DstRat SkipMEx SkipMExYMask SkipMExCMask
+
+-----VI PHYCHN STATUS 1----------------------------------------------------------
+ PhyChn BindDev  Way      IntCnt  VbFail  LosInt  TopLos  BotLos BufCnt  IntT  SendT  Field  Stride
+
+-----VI PHYCHN STATUS 2---------------------------------------------------------
+ PhyChn MaxIntT IntGapT MaxGapT OverCnt LIntCnt  ThrCnt AutoDis CasAutD  TmgErr      ccErrN    IntRat
+
+-----VI PHYCHN VBI ATTR---------------------------------------------------------
+ PhyChn   VbiId       X       Y   Local     Len CasErrN
+
+-----VI CASCADE CHN ATTR---------------------------------------------------------
+ CasChn    Dev  PhyChn  SrcRat  DstRat
+
+-----VI CHN STATUS-------------------------------------------------------------
+ ViChn   bEnUsrP   FrmTime   FrmRate     SendCnt      SwLost     Depth    Rotate
+
+-----VI CHN CALL VGS STATUS 1-------------------------------------------------
+ ViChn   UsrBgnNOk   UsrCancel    UsrEndOk     UsrCbOk     CvrBgnNOk   CvrCancel    CvrEndOk     CvrCbOk
+
+-----VI CHN CALL VGS STATUS 2-------------------------------------------------
+ ViChn   OsdBgnNOk   OsdCancel    OsdEndOk     OsdCbOk      ScaleNOk   SclCancel    SclEndOk     SclCbOk
+------------  info from master arm -------------
+
+[VOU] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:07:37]
+
+-----GRAPHICS LAYER------------------------------------------------------------
+ Layer BindDev
+   HC0       0
+   HC1       1
+
+-----LAYER CSC PARAM-----------------------------------------------------------
+ LAYERID  Matrix    Luma    Cont     Hue    Satu
+       0       5      50      50      50      50
+       3       5      50      50      50      50
+
+------------  info from slave arm -------------
+
+[VOU] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:58]
+
+-----DEV CONFIG----------------------------------------------------------------
+ DevId   DevEn    Mux1    Mux2    Mux3     InfSync     BkClr  DevFrt
+     0       Y    HDMI                      1080P@60       0      60
+
+-----MODULE PARAM 1--------------------------------------------------------------
+ DevId detectCycle vgaDetectEnable
+
+-----MODULE PARAM 2--------------------------------------------------------------
+ ext_csc_en
+          0
+
+-----DEV VDAC STATUS-----------------------------------------------------------
+ DevId    VDAC
+     0       -
+
+-----VIDEO LAYER STATUS--------------------------------------------------------
+ LayerId VideoEn ClustMode  PixFmt    ImgW    ImgH   DispW   DispH DispFrt DoubFrm Toleration Priority
+       0       Y         N     420    1920    1080    1920    1080      60       N   10000000        0
+
+-----VIDEO LAYER STATUS 2------------------------------------------------------
+ layerId VideoEn EnChNum  Matrix    Luma    Cont     Hue    Satu
+       0       Y      16       0      50      50      50      50
+
+-----VIDEO LAYER STATUS 3------------------------------------------------------
+ layerId DevId  SetBeg  SetEnd PartitionMode SupportCompress u32BufLen
+       0     0       N       N         Multi               N         4
+
+-----CHN BASE INFO ------------------------------------------------------------
+ LayerId ChnId ChnEn  Prio DeFlk  ChnX  ChnY  ChnW  ChnH DispX DispY bSnap Field  bCas CcPos bRcvMatch
+       0     0     Y     0     N     0     0   480   270    -1    -1     N  both     N     0       N
+       0     1     Y     0     N   480     0   480   270    -1    -1     N  both     N     0       N
+       0     2     Y     0     N   960     0   480   270    -1    -1     N  both     N     0       N
+       0     3     Y     0     N  1440     0   480   270    -1    -1     N  both     N     0       N
+       0     4     Y     0     N     0   270   480   270    -1    -1     N  both     N     0       N
+       0     5     Y     0     N   480   270   480   270    -1    -1     N  both     N     0       N
+       0     6     Y     0     N   960   270   480   270    -1    -1     N  both     N     0       N
+       0     7     Y     0     N  1440   270   480   270    -1    -1     N  both     N     0       N
+       0     8     Y     0     N     0   540   480   270    -1    -1     N  both     N     0       N
+       0     9     Y     0     N   480   540   480   270    -1    -1     N  both     N     0       N
+       0    10     Y     0     N   960   540   480   270    -1    -1     N  both     N     0       N
+       0    11     Y     0     N  1440   540   480   270    -1    -1     N  both     N     0       N
+       0    12     Y     0     N     0   810   480   270    -1    -1     N  both     N     0       N
+       0    13     Y     0     N   480   810   480   270    -1    -1     N  both     N     0       N
+       0    14     Y     0     N   960   810   480   270    -1    -1     N  both     N     0       N
+       0    15     Y     0     N  1440   810   480   270    -1    -1     N  both     N     0       N
+
+-----CHN PLAY INFO 1-----------------------------------------------------------
+ LayerId ChnId Batch  Show Pause  Step Revrs Refsh Thrshd ChnFrt   ChnGap
+       0     0     N     Y     N     N     N     N      3     60    16666
+       0     1     N     Y     N     N     N     N      3     60    16666
+       0     2     N     Y     N     N     N     N      3     60    16666
+       0     3     N     Y     N     N     N     N      3     60    16666
+       0     4     N     Y     N     N     N     N      3     60    16666
+       0     5     N     Y     N     N     N     N      3     60    16666
+       0     6     N     Y     N     N     N     N      3     60    16666
+       0     7     N     Y     N     N     N     N      3     60    16666
+       0     8     N     Y     N     N     N     N      3     60    16666
+       0     9     N     Y     N     N     N     N      3     60    16666
+       0    10     N     Y     N     N     N     N      3     60    16666
+       0    11     N     Y     N     N     N     N      3     60    16666
+       0    12     N     Y     N     N     N     N      3     60    16666
+       0    13     N     Y     N     N     N     N      3     60    16666
+       0    14     N     Y     N     N     N     N      3     60    16666
+       0    15     N     Y     N     N     N     N      3     60    16666
+
+-----CHN PLAY INFO 2-----------------------------------------------------------
+ LayerId ChnId          DisplayPts              PrePts             CurrPts            ScalePts              SetPts           RecvCurPts
+       0     0            16399344            16399344            16399344            16416010                  -1                   0
+       0     1                   0                   0                   0                   0                  -1                   0
+       0     2                   0                   0                   0                   0                  -1                   0
+       0     3                   0                   0                   0                   0                  -1                   0
+       0     4                   0                   0                   0                   0                  -1                   0
+       0     5                   0                   0                   0                   0                  -1                   0
+       0     6                   0                   0                   0                   0                  -1                   0
+       0     7                   0                   0                   0                   0                  -1                   0
+       0     8                   0                   0                   0                   0                  -1                   0
+       0     9                   0                   0                   0                   0                  -1                   0
+       0    10                   0                   0                   0                   0                  -1                   0
+       0    11                   0                   0                   0                   0                  -1                   0
+       0    12                   0                   0                   0                   0                  -1                   0
+       0    13                   0                   0                   0                   0                  -1                   0
+       0    14                   0                   0                   0                   0                  -1                   0
+       0    15                   0                   0                   0                   0                  -1                   0
+
+-----ByMutli CHN STATUS1-------------------------------------------------------
+ LayerId ChnId       QCnt      NewDo      OldDo       LCnt       SCnt      ChRpt BusyN ShouD Dsped  Area AreaT
+       0     0     275767        985          0          0        985     163294     0     1161917     0     0
+       0     1          0          0          0          0          0          0     0    -1    -1     4     4
+       0     2          0          0          0          0          0          0     0    -1    -1     8     8
+       0     3          0          0          0          0          0          0     0    -1    -1    12    12
+       0     4          0          0          0          0          0          0     0    -1    -1     1     1
+       0     5          0          0          0          0          0          0     0    -1    -1     5     5
+       0     6          0          0          0          0          0          0     0    -1    -1     9     9
+       0     7          0          0          0          0          0          0     0    -1    -1    13    13
+       0     8          0          0          0          0          0          0     0    -1    -1     2     2
+       0     9          0          0          0          0          0          0     0    -1    -1     6     6
+       0    10          0          0          0          0          0          0     0    -1    -1    10    10
+       0    11          0          0          0          0          0          0     0    -1    -1    14    14
+       0    12          0          0          0          0          0          0     0    -1    -1     3     3
+       0    13          0          0          0          0          0          0     0    -1    -1     7     7
+       0    14          0          0          0          0          0          0     0    -1    -1    11    11
+       0    15          0          0          0          0          0          0     0    -1    -1    15    15
+
+-----ByMutli CHN STATUS2-------------------------------------------------------
+ LayerId ChnId  Buf1  Buf2  Buf3  Buf4  DBuf Stat1 Stat2 QNodeAddr SNodeAddr  DispAddr  ChnFreeNum  ChnBusyNum
+       0     0     F  UseF  UseF     F     3   end   end  a112dc00  a112dc00  a112dc00           6           0
+       0     1     F     F     F     F     0   end   end         0         0         0           8           0
+       0     2     F     F     F     F     0   end   end         0         0         0           8           0
+       0     3     F     F     F     F     0   end   end         0         0         0           8           0
+       0     4     F     F     F     F     0   end   end         0         0         0           8           0
+       0     5     F     F     F     F     0   end   end         0         0         0           8           0
+       0     6     F     F     F     F     0   end   end         0         0         0           8           0
+       0     7     F     F     F     F     0   end   end         0         0         0           8           0
+       0     8     F     F     F     F     0   end   end         0         0         0           8           0
+       0     9     F     F     F     F     0   end   end         0         0         0           8           0
+       0    10     F     F     F     F     0   end   end         0         0         0           8           0
+       0    11     F     F     F     F     0   end   end         0         0         0           8           0
+       0    12     F     F     F     F     0   end   end         0         0         0           8           0
+       0    13     F     F     F     F     0   end   end         0         0         0           8           0
+       0    14     F     F     F     F     0   end   end         0         0         0           8           0
+       0    15     F     F     F     F     0   end   end         0         0         0           8           0
+
+-----ByMutli CHN STATUS3--------------------------------------------------------
+ LayerId ChnId AspectRatioMode     X     Y     Width     Height     BgColor     CompressMode
+       0     0            NONE     0     0         0          0           0             NONE
+       0     1            NONE     0     0         0          0           0                 
+       0     2            NONE     0     0         0          0           0                 
+       0     3            NONE     0     0         0          0           0                 
+       0     4            NONE     0     0         0          0           0                 
+       0     5            NONE     0     0         0          0           0                 
+       0     6            NONE     0     0         0          0           0                 
+       0     7            NONE     0     0         0          0           0                 
+       0     8            NONE     0     0         0          0           0                 
+       0     9            NONE     0     0         0          0           0                 
+       0    10            NONE     0     0         0          0           0                 
+       0    11            NONE     0     0         0          0           0                 
+       0    12            NONE     0     0         0          0           0                 
+       0    13            NONE     0     0         0          0           0                 
+       0    14            NONE     0     0         0          0           0                 
+       0    15            NONE     0     0         0          0           0                 
+
+-----BySingle CHN STATUS 1-----------------------------------------------------
+ LayerId ChnId   Job     Task     LCnt     SCnt    ChRpt     DRpt CBusy DBusy ShouD Dsped b2Scl  ChnAddr DispAddr
+
+-----BySingle CHN STATUS 2-----------------------------------------------------
+ LayerId ChnId  bBorder  TopWidth  BottomWidth  LeftWidth  RightWidth  Color  ChnFreeNum  ChnBusyNum  DisplayFreeNum  DisplayBusyNum
+
+-----BySingle CHN STATUS3------------------------------------------------------
+ LayerId ChnId AspectRatioMode     X     Y     Width     Height     BgColor     CompressMode
+
+-----CHN OTHER INFO------------------------------------------------------------
+ LayerId ChnId bZoom ZmTyp ZoomX ZoomY ZoomW ZoomH  SrcW  SrcH
+       0     0     N     0     0     0     0     0     0     0
+       0     1     N     0     0     0     0     0     0     0
+       0     2     N     0     0     0     0     0     0     0
+       0     3     N     0     0     0     0     0     0     0
+       0     4     N     0     0     0     0     0     0     0
+       0     5     N     0     0     0     0     0     0     0
+       0     6     N     0     0     0     0     0     0     0
+       0     7     N     0     0     0     0     0     0     0
+       0     8     N     0     0     0     0     0     0     0
+       0     9     N     0     0     0     0     0     0     0
+       0    10     N     0     0     0     0     0     0     0
+       0    11     N     0     0     0     0     0     0     0
+       0    12     N     0     0     0     0     0     0     0
+       0    13     N     0     0     0     0     0     0     0
+       0    14     N     0     0     0     0     0     0     0
+       0    15     N     0     0     0     0     0     0     0
+
+-----WBC INFO------------------------------------------------------------------
+ WbcId  WbcW  WbcH PixFmt FrmRat RealRat    Mode  SrcType  SrcId  Depth  NotFin
+
+-----DEV VIDEO STATUS 3--------------------------------------------------------
+ DevId bCasCfg  bCasEn bCasSlv  CasRgn CasMode CasPatn enCasDataTranMode Vtth
+     0       N       N       N                       0                    240
+
+-----VGA PARAM-----------------------------------------------------------------
+ DevId  Matrix    Luma    Cont     Hue    Satu    Gain    SharpenStrength
+
+-----HDMI PARAM----------------------------------------------------------------
+ DevId  Matrix    Luma    Cont     Hue    Satu
+     0       0      50      50      50      50
+
+------------  info from master arm -------------
+
+------------  info from slave arm -------------
+
+[VPSS] Version: [Hi3536_MPP_V1.0.7.0 B010 Release], Build Time[Aug 11 2017, 12:08:59]
+
+-------------------------MODULE PARAM-----------------------------------
+ vpss_vb_source vpss_en_ratio
+              0             0
+
+-------------------------VPSS GRP ATTR-----------------------------------
+   GrpID    MaxW    MaxH  PixFmt DieMode   DciEn    NrEn    IeEn  HistEn    EsEn preMode
+       0    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       1    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       2    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       3    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       4    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       5    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       6    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       7    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       8    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+       9    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      10    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      11    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      12    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      13    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      14    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+      15    1280     720   SP420   nodie       N       Y       N       N       Y    VPSS
+
+-----------------------VPSS GRP FRAME CONTROL INFO-------------------------
+   GrpID bFilter   Width  Height    SrcFRate    DstFRate   bUserCtrl
+       0       0       0       0          -1          -1           Y
+       1       0       0       0          -1          -1           Y
+       2       0       0       0          -1          -1           Y
+       3       0       0       0          -1          -1           Y
+       4       0       0       0          -1          -1           Y
+       5       0       0       0          -1          -1           Y
+       6       0       0       0          -1          -1           Y
+       7       0       0       0          -1          -1           Y
+       8       0       0       0          -1          -1           Y
+       9       0       0       0          -1          -1           Y
+      10       0       0       0          -1          -1           Y
+      11       0       0       0          -1          -1           Y
+      12       0       0       0          -1          -1           Y
+      13       0       0       0          -1          -1           Y
+      14       0       0       0          -1          -1           Y
+      15       0       0       0          -1          -1           Y
+
+-------------------------VPSS GRP PARAM-----------------------------------
+   GrpID    Cont   IeStr   SfStr   TfStr   CfStr  CTfStr CvbsStr     mdz   HtfRe     edz   WtfRe  DeMotion  DieStr
+       0      32       0      16       0       8       0       0       0       0       0       0         0       0
+       1      32       0      16       0       8       0       0       0       0       0       0         0       0
+       2      32       0      16       0       8       0       0       0       0       0       0         0       0
+       3      32       0      16       0       8       0       0       0       0       0       0         0       0
+       4      32       0      16       0       8       0       0       0       0       0       0         0       0
+       5      32       0      16       0       8       0       0       0       0       0       0         0       0
+       6      32       0      16       0       8       0       0       0       0       0       0         0       0
+       7      32       0      16       0       8       0       0       0       0       0       0         0       0
+       8      32       0      16       0       8       0       0       0       0       0       0         0       0
+       9      32       0      16       0       8       0       0       0       0       0       0         0       0
+      10      32       0      16       0       8       0       0       0       0       0       0         0       0
+      11      32       0      16       0       8       0       0       0       0       0       0         0       0
+      12      32       0      16       0       8       0       0       0       0       0       0         0       0
+      13      32       0      16       0       8       0       0       0       0       0       0         0       0
+      14      32       0      16       0       8       0       0       0       0       0       0         0       0
+      15      32       0      16       0       8       0       0       0       0       0       0         0       0
+
+-------------------------VPSS CHN PARAM---------------------------------
+   GrpID   ChnID   ChnSp
+       0       0      40
+       1       0      40
+       2       0      40
+       3       0      40
+       4       0      40
+       5       0      40
+       6       0      40
+       7       0      40
+       8       0      40
+       9       0      40
+      10       0      40
+      11       0      40
+      12       0      40
+      13       0      40
+      14       0      40
+      15       0      40
+
+-----------------------VPSS GRP PRESCALE INFO-------------------------
+   GrpID bPreScl   Width  Height
+
+-------------------------VPSS CHN ATTR-----------------------------------
+   GrpId    PhyChnId  Enable    SpEn  UVInvert FrmWkEn      LW      RW      TW      BW     Color   OverlayMask
+       0           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       1           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       2           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       3           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       4           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       5           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       6           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       7           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       8           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+       9           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      10           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      11           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      12           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      13           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      14           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+      15           0       Y       N         N       Y       2       2       2       2    ffffff            ff
+
+-------------------------VPSS CROP INFO-----------------------------------
+   GrpId  CropEn    CoorType   CoorX   CoorY   Width  Height    OriW    OriH TrimWid TrimHgt
+       0       N         RIT       0       0       0       0    1280     720    1280     720
+       1       N         RIT       0       0       0       0       0       0       0       0
+       2       N         RIT       0       0       0       0       0       0       0       0
+       3       N         RIT       0       0       0       0       0       0       0       0
+       4       N         RIT       0       0       0       0       0       0       0       0
+       5       N         RIT       0       0       0       0       0       0       0       0
+       6       N         RIT       0       0       0       0       0       0       0       0
+       7       N         RIT       0       0       0       0       0       0       0       0
+       8       N         RIT       0       0       0       0       0       0       0       0
+       9       N         RIT       0       0       0       0       0       0       0       0
+      10       N         RIT       0       0       0       0       0       0       0       0
+      11       N         RIT       0       0       0       0       0       0       0       0
+      12       N         RIT       0       0       0       0       0       0       0       0
+      13       N         RIT       0       0       0       0       0       0       0       0
+      14       N         RIT       0       0       0       0       0       0       0       0
+      15       N         RIT       0       0       0       0       0       0       0       0
+
+-------------------------VPSS GRP PIC QUEUE-------------------------
+   GrpID FreeLen BusyLen   Delay  Backup
+       0       7       0       0       1
+       1       8       0       0       1
+       2       8       0       0       1
+       3       8       0       0       1
+       4       8       0       0       1
+       5       8       0       0       1
+       6       8       0       0       1
+       7       8       0       0       1
+       8       8       0       0       1
+       9       8       0       0       1
+      10       8       0       0       1
+      11       8       0       0       1
+      12       8       0       0       1
+      13       8       0       0       1
+      14       8       0       0       1
+      15       8       0       0       1
+
+-----------------------VPSS GRP WORK STATUS-------------------------
+   GrpID         RecvPic  ViLost    VdecLost           NewDo   OldDo NewUnDo         OldUnDo StartFl  bStart
+       0             985       0           0             985       0       0          274784       0       1
+       1               0       0           0               0       0       0               0       0       1
+       2               0       0           0               0       0       0               0       0       1
+       3               0       0           0               0       0       0               0       0       1
+       4               0       0           0               0       0       0               0       0       1
+       5               0       0           0               0       0       0               0       0       1
+       6               0       0           0               0       0       0               0       0       1
+       7               0       0           0               0       0       0               0       0       1
+       8               0       0           0               0       0       0               0       0       1
+       9               0       0           0               0       0       0               0       0       1
+      10               0       0           0               0       0       0               0       0       1
+      11               0       0           0               0       0       0               0       0       1
+      12               0       0           0               0       0       0               0       0       1
+      13               0       0           0               0       0       0               0       0       1
+      14               0       0           0               0       0       0               0       0       1
+      15               0       0           0               0       0       0               0       0       1
+
+-----------------------VPSS CHN WORK STATUS-------------------------
+   GrpID   ChnID    WorkMode   Depth          SendOk  bConfident  SrcFRate  DstFRate   bDouble
+       0       0        AUTO       0             985           1        -1        -1        --
+       1       0        AUTO       0               0           0        -1        -1        --
+       2       0        AUTO       0               0           0        -1        -1        --
+       3       0        AUTO       0               0           0        -1        -1        --
+       4       0        AUTO       0               0           0        -1        -1        --
+       5       0        AUTO       0               0           0        -1        -1        --
+       6       0        AUTO       0               0           0        -1        -1        --
+       7       0        AUTO       0               0           0        -1        -1        --
+       8       0        AUTO       0               0           0        -1        -1        --
+       9       0        AUTO       0               0           0        -1        -1        --
+      10       0        AUTO       0               0           0        -1        -1        --
+      11       0        AUTO       0               0           0        -1        -1        --
+      12       0        AUTO       0               0           0        -1        -1        --
+      13       0        AUTO       0               0           0        -1        -1        --
+      14       0        AUTO       0               0           0        -1        -1        --
+      15       0        AUTO       0               0           0        -1        -1        --
+
+----------------------VPSS CHN OUTPUT RESOLUTION-----------------------
+   GrpID   ChnID  Enable   Width  Height  pixfmt cmpMode AspectRatio  videoX  videoY  videoW  videoH   BgColor  Rotation   FrameRate
+       0       0       Y     480     270   SP420    NONE        NONE       0       0     480     270       0       0          25
+       1       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       2       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       3       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       4       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       5       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       6       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       7       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       8       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+       9       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      10       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      11       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      12       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      13       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      14       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+      15       0       Y       0       0      --    NONE        NONE       0       0       0       0       0       0           0
+
+-------------------------DRV WORK STATUS-----------------------------------
+   StartSuc0   StartSuc1   StartSuc2     LinkInt   StartErr0   StartErr1   StartErr2  NodeIdErr0  NodeIdErr1  NodeIdErr2      BusErr
+         985           0           0         985           0           0           0           0           0           0           0
+
+-------------------------DRV NODE QUEUE-----------------------------------
+ FreeNum WaitNum  OrderWaitNum  Busy00  Busy01    Sel0  Busy10  Busy11    Sel1  Busy20  Busy21    Sel2
+     457       0             0       0       0       1       0       0       0       0       0       0
